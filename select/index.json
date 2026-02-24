@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "もでらーと",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-24T06:13:14.946094Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もでらーと",
+      "artist": "MIMI, わん子",
+      "has_synced": false,
+      "path": "select/pl_01_もでらーと_MIMI,_わん子.txt"
+    }
+  ]
+}
